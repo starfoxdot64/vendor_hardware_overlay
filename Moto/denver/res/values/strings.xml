@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="config_cameraLaunchGestureSensorStringType">com.motorola.sensor.camera_activate</string>
-<string name="config_mainBuiltInDisplayCutout">M -1032,0 L -956,0 L -956,103 L -1032,103 Z @right</string>
+  <string name="config_cameraLaunchGestureSensorStringType"/>
+  <string name="config_mainBuiltInDisplayCutout">M -1032,0 L -956,0 L -956,103 L -1032,103 Z @right</string>
+  <string name="config_mainBuiltInDisplayCutoutRectApproximation">@string/config_mainBuiltInDisplayCutout</string>
 </resources>
